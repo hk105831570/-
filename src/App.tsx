@@ -573,6 +573,13 @@ export default function App() {
 
         </div>
       </main>
+
+      {/* Footer Signature */}
+      <footer className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 mt-4 border-t border-slate-200">
+        <div className="flex flex-col items-center justify-center text-slate-400 text-sm italic">
+          <p>何康昕制作</p>
+        </div>
+      </footer>
     </div>
   );
 }
